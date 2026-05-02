@@ -1,0 +1,219 @@
+addall:
+  usage:
+  - '%prefix% Usage: /bank addall [amount] [bankName]'
+  confirm-cooldown: 5
+  confirm-message:
+  - '%prefix% Type the command again within 5 seconds to add to every online player
+    (%server_online% players) the specified amount.'
+  cooldown: 0
+  cooldown-message: []
+add:
+  usage:
+  - '%prefix% Usage: /bank add [player] [amount] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+balance:
+  usage:
+  - '%prefix% Usage: /bank balance [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+deposit:
+  usage:
+  - '%prefix% Usage: /bank deposit [amount/half/all] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+forcedeposit:
+  usage:
+  - '%prefix% Usage: /bank forceDeposit [player] [amount/half/all/custom] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+forceopen:
+  usage:
+  - '%prefix% Usage: /bank forceopen [player] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+forceupgrade:
+  usage:
+  - '%prefix% Usage: /bank forceOpen [player] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+forcewithdraw:
+  usage:
+  - '%prefix% Usage: /bank forceWithdraw [player] [amount/half/all/custom] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+giveinterest:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+giverequireditems:
+  usage:
+  - '%prefix% Usage: /bank giveRequiredItems <player> [bankName] [bankLevel] [itemName/all]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+help:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+interest:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+interestmillis:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+loan:
+  usage:
+  - '%prefix% Usage: /bank loan [action] [playerName] [amount] [fromBankName] [toBankName]'
+  - ''
+  - 'Possible actions:'
+  - ' <dark_gray>*</dark_gray> Give'
+  - ' <dark_gray>*</dark_gray> Request'
+  - ' <dark_gray>*</dark_gray> Accept'
+  - ' <dark_gray>*</dark_gray> Deny'
+  - ' <dark_gray>*</dark_gray> Cancel'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+open:
+  usage:
+  - '%prefix% Usage: /bank open [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+pay:
+  usage:
+  - '%prefix% Usage: /bank pay [player] [amount] [fromBankName] [toBankName]'
+  - ''
+  - '- fromBankName: The bank from where to take the money.'
+  - '- toBankName: The bank where to send the money.'
+  confirm-cooldown: 5
+  confirm-message: []
+  cooldown: 0
+  cooldown-message:
+  - '%prefix% <green>Type again within 5 seconds to confirm your payment.'
+placeholders:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+reload:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+remove:
+  usage:
+  - '%prefix% Usage: /bank remove [player] [amount] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+resetall:
+  usage:
+  - '%prefix% Usage: /bank resetall [mode]'
+  - ''
+  - Specify a mode between <aqua>"delete"</aqua> and <aqua>"maintain"</aqua>.
+  - '- delete: Will remove all players money and they will be lost'
+  - '- maintain: Will move all players money from their banks to their vault balance.'
+  confirm-cooldown: 5
+  confirm-message:
+  - '%prefix% <red>Warning, this command is going to reset everyone''s bank balance,
+    based on the mode you choose, this action is not reversible, type the command
+    again within 5 seconds to confirm.'
+  cooldown: 0
+  cooldown-message: []
+restartinterest:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+savealldata:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+set:
+  usage:
+  - '%prefix% Usage: /bank set [player] [amount] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+setlevel:
+  usage:
+  - '%prefix% Usage: /bank setLevel [level] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+transfer:
+  usage:
+  - '%prefix% Usage: /bank transfer [mode]'
+  - Specify a mode between <aqua>"filesToDatabase"</aqua> and <aqua>"databaseToFiles"</aqua>.
+  - Use this command to transfer the playerdata from a place to another in case you
+    switch saving mode.
+  confirm-cooldown: 5
+  confirm-message:
+  - '%prefix% <red>This command will overwrite the data from a place to another, type
+    the command again within 5 seconds to confirm.'
+  cooldown: 0
+  cooldown-message: []
+updatebanktop:
+  usage: []
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+upgrade:
+  usage:
+  - '%prefix% Usage: /bank upgrade [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+view:
+  usage:
+  - '%prefix% Usage: /bank view [player] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []
+withdraw:
+  usage:
+  - '%prefix% Usage: /bank deposit [amount/half/all] [bankName]'
+  confirm-cooldown: 0
+  confirm-message: []
+  cooldown: 0
+  cooldown-message: []

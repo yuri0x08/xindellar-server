@@ -1,0 +1,4 @@
+font:
+  file: minecraft.ttf
+  scale: 16
+  use-unifont: false

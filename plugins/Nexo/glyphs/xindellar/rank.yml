@@ -1,0 +1,48 @@
+wanderer:
+  texture: xindellar:rank/wanderer.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐢ
+
+adventurer:
+  texture: xindellar:rank/adventurer.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐣ
+
+elite:
+  texture: xindellar:rank/elite.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐤ
+
+champion:
+  texture: xindellar:rank/champion.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐥ
+
+hero:
+  texture: xindellar:rank/hero.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐦ
+
+legendary:
+  texture: xindellar:rank/legendary.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐧ
+
+admin:
+  texture: xindellar:rank/admin.png
+  ascent: 7
+  height: 9
+  font: minecraft:default
+  char: ꐨ

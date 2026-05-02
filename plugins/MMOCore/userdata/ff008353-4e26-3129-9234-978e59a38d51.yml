@@ -1,0 +1,24 @@
+class-points: 0
+skill-points: 0
+skill-reallocation-points: 0
+attribute-points: 0
+attribute-realloc-points: 0
+level: 1
+experience: 1.0
+class: HUMAN
+waypoints: []
+friends: []
+last-login: 1777576701850
+skill-tree-reallocation-points: 0
+health: 20.0
+mana: 20.0
+stellium: 20.0
+stamina: 20.0
+unlocked-items: []
+skill-tree-level: {}
+attribute:
+  dexterity: 0
+  strength: 0
+  intelligence: 0
+profession: {}
+quest: {}

@@ -1,0 +1,42 @@
+tab_r:
+  texture: xindellar:icon/top_logo_1.png
+  ascent: 8
+  height: 128
+  font: minecraft:default
+  char: ꐩ
+tab_l:
+  texture: xindellar:icon/top_logo_2.png
+  ascent: 8
+  height: 128
+  font: minecraft:default
+  char: ꐪ
+tab_quit:
+  texture: xindellar:icon/quit_button.png
+  ascent: 15
+  height: 120
+  font: minecraft:default
+  char: ꐫ
+tab_r_esc:
+  texture: xindellar:icon/top_logo_1.png
+  ascent: 90
+  height: 128
+  font: minecraft:default
+  char: ꐬ
+tab_l_esc:
+  texture: xindellar:icon/top_logo_2.png
+  ascent: 90
+  height: 128
+  font: minecraft:default
+  char: ꐭ
+backtoplay:
+  texture: xindellar:icon/backtoplay.png
+  ascent: 30
+  height: 38
+  font: minecraft:default
+  char: ꐮ
+tabadmin:
+  texture: xindellar:icon/tabadmin.png
+  ascent: 528
+  height: 660
+  font: minecraft:default
+  char: ꐯ

@@ -1,0 +1,14 @@
+xin_hud:
+  layouts:
+    pmenu:
+      name: pmenu
+      x: 50
+      y: 100
+    player_info:
+      name: player_info
+      x: 0
+      y: 0
+    bottom_hud:
+      name: bottom_hud
+      x: 50
+      y: 100

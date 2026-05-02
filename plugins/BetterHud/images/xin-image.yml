@@ -1,0 +1,64 @@
+pmenu:
+  type: single
+  file: "xindellar/right_bar_book_info.png"
+
+offhand:
+  type: single
+  file: "xindellar/hotbar_offhand_left.png"
+
+player_info:
+  type: single
+  file: "xindellar/scoreboard_bg.png"
+
+hp_full:
+  type: listener
+  file: xindellar/hp_fill.png
+  split: 25
+  split-type: left
+  setting:
+    listener:
+      class: health
+
+mp_full:
+  type: listener
+  file: xindellar/mp_fill.png
+  split: 25
+  split-type: left
+  setting:
+    listener:
+      class: mmocore_mana
+
+food_full:
+  type: listener
+  file: xindellar/food_fill.png
+  split: 25
+  split-type: left
+  setting:
+    listener:
+      class: food
+
+exp_full:
+  type: listener
+  file: xindellar/exp_fill.png
+  split: 48
+  split-type: left
+  setting:
+    listener:
+      class: mmocore_experience
+
+bottom_hud:
+  type: single
+  file: "xindellar/navigate_bg.png"
+
+air_bg:
+  type: single
+  file: "xindellar/air_bg.png"
+
+air_fill:
+  type: listener
+  file: "xindellar/air_fill.png"
+  split: 25
+  split-type: left
+  setting:
+    listener:
+      class: air

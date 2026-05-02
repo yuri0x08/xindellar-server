@@ -1,0 +1,72 @@
+WelcomeNotice:
+  Title: <gold>Welcome!
+  Body:
+  - Type: text
+    Message: <gray>Welcome to the server, <target.name>!
+  - Type: text
+    Message: <yellow>Enjoy your stay.
+  Buttons:
+  - Label: <green>Got it!
+    Width: 150
+QuestOffer:
+  Title: <gold>New Quest Available
+  CanClose: true
+  Pause: false
+  AfterAction: CLOSE
+  Body:
+  - Type: text
+    Message: <gray>A mysterious stranger needs your help.
+  - Type: text
+    Message: '<yellow>Reward: <green>50 Gold'
+  Buttons:
+  - Label: <green>Accept
+    Tooltip: Accept this quest
+    Width: 150
+    Skill: ExampleQuestAccepted
+  - Label: <red>Decline
+    Tooltip: Decline this quest
+    Width: 150
+    Skill: ExampleQuestDeclined
+CharacterSetup:
+  Title: <blue>Character Setup
+  ExternalTitle: Setup
+  CanClose: false
+  Pause: false
+  AfterAction: WAIT_FOR_RESPONSE
+  Body:
+  - Type: text
+    Message: <gray>Configure your character settings.
+    Width: 300
+  Inputs:
+  - Type: text
+    Key: nickname
+    Label: Display Name
+    MaxLength: 16
+  - Type: bool
+    Key: pvpEnabled
+    Label: Enable PvP?
+  - Type: range
+    Key: difficulty
+    Label: Difficulty
+    Start: 1
+    End: 10
+    Initial: 5
+    Step: 1
+  - Type: option
+    Key: classChoice
+    Label: Choose a Class
+    Options:
+      warrior: Warrior
+      mage: Mage
+      ranger: Ranger
+  Buttons:
+  - Label: <green>Confirm
+    Tooltip: Save your settings
+    Width: 150
+    Skill: ExampleCharacterConfirmed
+  - Label: <red>Cancel
+    Width: 150
+  ExitButton:
+    Label: Close
+    Width: 100
+  Columns: 2

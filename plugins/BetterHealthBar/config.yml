@@ -1,0 +1,30 @@
+debug: false
+metrics: true
+pack-type: folder
+namespace: betterhealthbar
+default-duration: 60
+build-folder: Nexo/pack/external_packs/Betterhealthbar
+default-height: 1
+look-degree: 20
+look-distance: 15
+merge-other-folder: []
+enable-self-host: true
+self-host-port: 8163
+number-format: '#,###.0'
+blacklist-entity-type:
+- ARMOR_STAND
+- TEXT_DISPLAY
+- BLOCK_DISPLAY
+- ITEM_DISPLAY
+- PLAYER
+disable-to-vehicle-mob: true
+disable-to-invulnerable-mob: true
+disable-to-invisible-mob: true
+shaders:
+  text:
+    vsh: true
+    fsh: true
+use-core-shaders: true
+show-me-healthbar: true
+resource-pack-obfuscation: false
+plugin-version: 3.11.0

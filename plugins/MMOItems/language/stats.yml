@@ -1,0 +1,182 @@
+# Weapon Stats
+attack-damage: '&3 <#ff4c4c> Attack Damage: <#ddedff>{value}'
+attack-speed: '&3 <#ff4c4c> Attack Speed: <#ddedff>{value}'
+critical-strike-chance: '&3 <#ff4c4c> Crit Strike Chance: <#ddedff><plus>{value}%'
+critical-strike-power: '&3 <#ff4c4c> Crit Strike Power: <#ddedff><plus>{value}%'
+skill-critical-strike-chance: '&3 <#ff4c4c> Skill Crit Chance: <#ddedff><plus>{value}%'
+skill-critical-strike-power: '&3 <#ff4c4c> Skill Crit Power: <#ddedff><plus>{value}%'
+range: '&3 <#ff4c4c> Range: <#ddedff>{value}' # Combat range for ranged weapons
+mana-cost: '&3 &7■ Uses &9{value} Mana'
+stamina-cost: '&3 &7■ Uses &9{value} Stamina'
+arrow-velocity: '&3 &7■ Arrow Velocity: <#ddedff>{value}'
+blunt-power: '&3 &7■ Blunt Power: <#ddedff>{value}'
+blunt-rating: '&3 &7■ Blunt Rating: <#ddedff>{value}%'
+two-handed: '&3 &7■ Two Handed'
+handworn: '&3 &7■ Handworn'
+knockback: '&3 &7■ Knockback: <#ddedff>{value}'
+recoil: '&3 &7■ Recoil: <#ddedff>{value}%'
+note-weight: '&3 &7■ Note Weight: <#ddedff>{value}'
+lifesteal: '&3 <#ff5c8a> Lifesteal: &c+{value}%'
+spell-vampirism: '&3 &7■ Spell Vampirism: &c+{value}%'
+
+# Extra Damage
+pve-damage: '&3 <#ff4c4c> PvE Damage: <#ddedff><plus>{value}%'
+pvp-damage: '&3 <#ff4c4c> PvP Damage: <#ddedff><plus>{value}%'
+magic-damage: '&3 <#ff4c4c> Magic Damage: <#ddedff><plus>{value}%'
+weapon-damage: '&3 <#ff4c4c> Weapon Damage: <#ddedff><plus>{value}%'
+undead-damage: '&3 <#ff4c4c> Undead Damage: <#ddedff><plus>{value}%'
+skill-damage: '&3 <#ff4c4c> Skill Damage: <#ddedff><plus>{value}%'
+physical-damage: '&3 <#ff4c4c> Physical Damage: <#ddedff><plus>{value}%'
+projectile-damage: '&3 <#ff4c4c> Projectile Damage: <#ddedff><plus>{value}%'
+faction-damage-undead: '&3 <#ff4c4c> Undead Faction Damage: <#ddedff><plus>{value}%'
+
+# Abilities (changed in MI 6.9.5)
+ability:
+  general-format: "&8| &7{trigger} &8|&e|&8| &7&l{ability}"
+  modifier-if-any: "\n" # Appended to general-format if the skill has at least one modifier
+  modifier-foreach: "&7{modifier}&8: <#ddedff>{value}"
+  modifier-splitter: " &8&l|&7 "
+  modifiers-per-line: 3
+  ability-splitter:
+    enabled: true
+    format: ''
+
+# Armor Stats
+block-power: '&3 <#4da6ff> Block Power: <#ddedff><plus>{value}%'
+block-rating: '&3 <#4da6ff> Block Rating: <#ddedff><plus>{value}%'
+block-cooldown-reduction: '&3 <#4da6ff> Block Cooldown Reduction: <#ddedff><plus>{value}%'
+dodge-rating: '&3 <#4da6ff> Dodge Rating: <#ddedff><plus>{value}%'
+dodge-cooldown-reduction: '&3 <#4da6ff> Dodge Cooldown Reduction: <#ddedff><plus>{value}%'
+parry-rating: '&3 <#4da6ff> Parry Rating: <#ddedff><plus>{value}%'
+parry-cooldown-reduction: '&3 <#4da6ff> Parry Cooldown Reduction: <#ddedff><plus>{value}%'
+armor: '&3 <#4da6ff> Armor: <#ddedff><plus>{value}'
+armor-toughness: '&3 <#4da6ff> Armor Toughness: <#ddedff><plus>{value}'
+knockback-resistance: '&3 <#4da6ff> Knockback Resistance: <#ddedff><plus>{value}%'
+max-health: '&3 <#ff5c8a> Health:&c <plus>{value}'
+movement-speed: '&3 <#4cff88> Movement Speed: <#ddedff><plus>{value}'
+
+# Damage Reduction
+defense: '&3 <#4da6ff> Defense: <#ddedff><plus>{value}'
+damage-reduction: '&3 <#4da6ff> Damage Reduction: <#ddedff><plus>{value}%'
+fall-damage-reduction: '&3 <#4da6ff> Fall Damage Reduction: <#ddedff><plus>{value}%'
+fire-damage-reduction: '&3 <#4da6ff> Fire Damage Reduction: <#ddedff><plus>{value}%'
+magic-damage-reduction: '&3 <#4da6ff> Magic Damage Reduction: <#ddedff><plus>{value}%'
+projectile-damage-reduction: '&3 <#4da6ff> Projectile Damage Reduction: <#ddedff><plus>{value}%'
+physical-damage-reduction: '&3 <#4da6ff> Physical Damage Reduction: <#ddedff><plus>{value}%'
+pve-damage-reduction: '&3 <#4da6ff> PvE Damage Reduction: <#ddedff><plus>{value}%'
+pvp-damage-reduction: '&3 <#4da6ff> PvP Damage Reduction: <#ddedff><plus>{value}%'
+
+# RPG stats
+health-regeneration: '&3 <#ff5c8a> Health Regeneration: <#ddedff><plus>{value}'
+max-mana: '&3 <#b266ff> Max Mana: <#ddedff><plus>{value}'
+mana-regeneration: '&3 <#b266ff> Mana Regeneration: <#ddedff><plus>{value}'
+max-stamina: '&3 &7■ Max Stamina: <#ddedff><plus>{value}'
+stamina-regeneration: '&3 &7■ Stamina Regeneration: <#ddedff><plus>{value}'
+cooldown-reduction: '&3 <#b266ff> Skill Cooldown Reduction: <#ddedff><plus>{value}%'
+additional-experience: '&3 &7■ Additional Experience: <#ddedff><plus>{value}%'
+additional-experience-alchemy: '&7■ Additional Alchemy Experience: <#ddedff><plus>{value}%'
+additional-experience-enchanting: '&7■ Additional Enchanting Experience: <#ddedff><plus>{value}%'
+additional-experience-farming: '&7■ Additional Farming Experience: <#ddedff><plus>{value}%'
+additional-experience-fishing: '&7■ Additional Fishing Experience: <#ddedff><plus>{value}%'
+additional-experience-mining: '&7■ Additional Mining Experience: <#ddedff><plus>{value}%'
+additional-experience-smelting: '&7■ Additional Smelting Experience: <#ddedff><plus>{value}%'
+additional-experience-smithing: '&7■ Additional Smithing Experience: <#ddedff><plus>{value}%'
+additional-experience-woodcutting: '&7■ Additional Woodcutting Experience: <#ddedff><plus>{value}%'
+
+# 1.20.2+ Attributes
+block-break-speed: '&3 &7■ Mining Speed: <#ddedff><plus>{value}'
+block-interaction-range: '&3 &7■ Range: <#ddedff><plus>{value}' # Range for interacting with blocks & mining.
+entity-interaction-range: '&3 &7■ Combat Range: <#ddedff><plus>{value}'
+fall-damage-multiplier: '&3 &7■ Fall Damage: <#ddedff><plus>{value}%'
+gravity: '&3 &7■ Force of Gravity: <#ddedff><plus>{value}%'
+jump-strength: '&3 &7■ Jump Strength: <#ddedff><plus>{value}'
+max-absorption: '&3 &7■ Max Absorption: <#ddedff><plus>{value}'
+safe-fall-distance: '&3 &7■ Safe Fall Distance: <#ddedff><plus>{value}'
+scale: '&3 &7■ Size: <#ddedff><plus>{value}%'
+step-height: '&3 &7■ Smooth Walking: <#ddedff><plus>{value}'
+burning-time: '&3 &7■ Burning Time: <#ddedff><plus>{value}%'
+explosion-knockback-resistance: '&3 &7■ Explosion Knockback Resistance: <#ddedff><plus>{value}%'
+mining-efficiency: '&3 &7■ Mining Efficiency: <#ddedff><plus>{value}'
+movement-efficiency: '&3 &7■ Movement Efficiency: <#ddedff><plus>{value}%'
+oxygen-bonus: '&3 &7■ Waterbreathing: <#ddedff><plus>{value}'
+sneaking-speed: '&3 &7■ Sneaking Speed: <#ddedff><plus>{value}%'
+submerged-mining-speed: '&3 &7■ Underwater Mining Speed: <#ddedff><plus>{value}%'
+sweeping-damage-ratio: '&3 &7■ Sweeping Damage: <#ddedff><plus>{value}%'
+water-movement-efficiency: '&3 &7■ Underwater Movement Speed: <#ddedff><plus>{value}%'
+
+# Extra Options
+perm-effects: '&3 &7■ Permanent &f{effect}'
+commands: '&3 &7■ Command: &f{format} &3 &7(&f{cooldown}&3 &7s)'
+item-cooldown: '&3 &7■ <#ddedff>{value}&3 &7s Cooldown'
+arrow-potion-effects: '&3 &7■ Arrow Effect: &f{effect}'
+
+# Consumables
+restore-health: '&3 &7■ Restores <#ddedff>{value} &7Health'
+restore-food: '&3 &7■ Restores <#ddedff>{value} &7Food'
+restore-saturation: '&3 &7■ Restores <#ddedff>{value} &7Saturation'
+restore-mana: '&3 <#b266ff> Restores <#ddedff>{value} &7Mana'
+restore-stamina: '&3 &7■ Restores <#ddedff>{value} &7Stamina'
+effects: '&3 &7■ Grants &f{effect} &7for &f{duration} &7s'
+repair: '&3 &7■ Repair: <#ddedff>{value}'
+repair-percent: '&3 &7■ Repair: <#ddedff>{value}%'
+can-identify: '&3 &7■ Can identify items.'
+can-deconstruct: '&3 &7■ Can deconstruct tiered items.'
+can-deskin: '&3 &7■ Can de-skin skinned items.'
+success-rate: '&3 &7■ Success Rate: &a&l{value}%'
+max-consume: '&3 &7■ <#ddedff>{value} &7Uses Left'
+
+# Gem Stones
+gem-stone-lore: '&8&l[&2&l*&8&l] &aDrag onto an item &7to apply!'
+gem-sockets:
+  empty: '&a◆ Empty {name} Gem Socket'
+  filled: '&a◆ {name}'
+
+# Soulbound
+soulbinding-chance: '&3 &7■ Has a &a{value}% &7chance to bind your item.'
+soulbound-break-chance: '&3 &7■ Has a &a{value}% &7chance to break soulbounds.'
+soulbound-level: '&3 &7■ Level &e{value} &7Soulbound'
+
+# Tools
+autosmelt: '&3 &7■ &fAutosmelt'
+bouncing-crack: '&3 &7■ &fBouncing Crack'
+pickaxe-power: '&3 &7■ &fPickaxe Power: &a{value}'
+durability: '&7Durability: {current} / {max}'
+
+# General
+item-type: '&c{type}'
+tier: '&3 &7Tier: {value}'
+required-class: '&3 &7{value} Item'
+required-level: '&eRequires Lvl {value}'
+
+# MMOCore Attributes
+required-dexterity: '&eRequires &c{value} &eDexterity'
+required-strength: '&eRequires &c{value} &eStrength'
+required-intelligence: '&eRequires &c{value} &eIntelligence'
+
+additional-dexterity: '&3 &7■ Extra Dexterity: &f<plus>{value}'
+additional-strength: '&3 &7■ Extra Strength: &f<plus>{value}'
+additional-intelligence: '&3 &7■ Extra Intelligence: &f<plus>{value}'
+
+# MMOCore Professions
+profession-alchemy: '&eRequires Alchemy Lvl {value}'
+profession-enchanting: '&eRequires Enchanting Lvl {value}'
+profession-farming: '&eRequires Farming Lvl {value}'
+profession-fishing: '&eRequires Fishing Lvl {value}'
+profession-mining: '&eRequires Mining Lvl {value}'
+profession-smelting: '&eRequires Smelting Lvl {value}'
+profession-smithing: '&eRequires Smithing Lvl {value}'
+profession-woodcutting: '&eRequires Woodcutting Lvl {value}'
+
+# Heroes stats
+required-secondary-hero-level: '&eRequires 2nd Hero Lvl {value}'
+
+# Elemental Stat Formats
+element:
+  damage: '{color}{icon}&7 {value} {element} Damage'
+  damage-percent: '{color}{icon}&7 +{value}% {element} Damage'
+  defense: '{color}{icon}&7 {value} {element} Defense'
+  defense-percent: '{color}{icon}&7 +{value}% {element} Defense'
+  weakness: '{color}{icon}&7 {value}% {element} Weakness'
+
+# Custom stats
+custom-myluck: '&3 &7■ Luck: &f<plus>{value}'

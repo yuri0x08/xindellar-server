@@ -1,0 +1,7 @@
+{
+  "container.inventory": " ",
+  "menu.disconnect": "<shift:-283><glyph:tab_quit><shift:-256>",
+  "menu.game": "",
+  "gui.stats": "<shift:-55><glyph:backtoplay>Statistics<shift:5>",
+  "menu.returnToGame": "<shift:-257><glyph:tab_r_esc><shift:-1><glyph:tab_l_esc><shift:-256>"
+}

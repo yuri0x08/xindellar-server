@@ -1,0 +1,136 @@
+pmenu:
+  images:
+    1:
+      name: pmenu
+      x: 107
+      y: -53
+    offhand:
+      name: offhand
+      x: -104
+      y: -22
+      conditions:
+        1:
+          first: "papi:checkitem_inhand:off"
+          second: "'no'"
+          operation: "=="
+
+player_info:
+  images:
+    1:
+      name: player_info
+      x: 65
+      y: 8
+    2:
+      name: hp_full
+      x: 100
+      y: 9
+    3:
+      name: mp_full
+      x: 100
+      y: 23
+    4:
+      name: food_full
+      x: 111
+      y: 37
+    5:
+      name: exp_full
+      x: 68
+      y: 51
+  texts:
+    hp:
+      name: font
+      pattern: <#ffffff>[health]
+      align: center
+      layer: 2
+      x: 137
+      y: 8
+      scale: 0.7
+      outline: true
+    mp:
+      name: font
+      pattern: <#ffffff>[mmocore_mana]
+      align: center
+      layer: 2
+      x: 137
+      y: 22
+      scale: 0.7
+      outline: true
+    exp:
+      name: font
+      pattern: <#ffffff>[mmocore_exp]//[mmocore_max_exp]
+      align: center
+      layer: 2
+      x: 125
+      y: 50
+      scale: 0.7
+      outline: true
+    cp:
+      name: font
+      pattern: <#ffffff>100
+      align: center
+      layer: 2
+      x: 103
+      y: 65
+      scale: 0.7
+      outline: true
+    p_lvl:
+      name: font
+      pattern: <#ffffff>Lv.[mmocore_level]
+      align: center
+      layer: 2
+      x: 82
+      y: 40
+      scale: 0.7
+      outline: true
+bottom_hud:
+  images:
+    1:
+      name: bottom_hud
+      x: 1
+      y: -53
+    2:
+      name: air_bg
+      x: 49
+      y: -53
+      conditions:
+        1:
+          first: air
+          second: 300
+          operation: '<'
+    3:
+      name: air_fill
+      x: 50
+      y: -52
+      conditions:
+        1:
+          first: air
+          second: 300
+          operation: '<'
+  texts:
+    p_location:
+      name: font
+      pattern: <#ffffff>[papi:player_x],[papi:player_y],[papi:player_z]
+      align: center
+      layer: 2
+      x: 92
+      y: -38
+      scale: 0.7
+      outline: true
+    p_money:
+      name: font
+      pattern: <#ffffff>[papi:coinsengine_balance_short_money]
+      align: left
+      layer: 2
+      x: 16
+      y: -52
+      scale: 0.7
+      outline: true
+    p_energy:
+      name: font
+      pattern: <#ffffff>[papi:coinsengine_balance_short_energy]
+      align: right
+      layer: 2
+      x: 173
+      y: -52
+      scale: 0.7
+      outline: true

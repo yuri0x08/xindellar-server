@@ -1,0 +1,6 @@
+font:
+  file: font.ttf
+  scale: 10
+  use-unifont: false
+  include:
+  - thailand

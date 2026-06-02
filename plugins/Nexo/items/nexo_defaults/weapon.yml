@@ -1,0 +1,1242 @@
+nemesis:
+  itemname: Nemesis
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/nemesis
+    custom_model_data: 10000
+poseidon:
+  itemname: Poseidon
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/poseidon
+    custom_model_data: 10001
+zagreus:
+  itemname: Zagreus
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/zagreus
+    custom_model_data: 10002
+ancient_greatslab:
+  itemname: ancient_greatslab
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/ancient_greatslab
+    custom_model_data: 10003
+azure_greataxe:
+  itemname: azure_greataxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/azure_greataxe
+    custom_model_data: 10004
+azure_greatsword:
+  itemname: azure_greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/azure_greatsword
+    custom_model_data: 10005
+azure_sabre:
+  itemname: azure_sabre
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/azure_sabre
+    custom_model_data: 10006
+azure_scythe:
+  itemname: azure_scythe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/azure_scythe
+    custom_model_data: 10007
+azure_shortsword:
+  itemname: azure_shortsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/azure_shortsword
+    custom_model_data: 10008
+bloodyvengeance:
+  itemname: bloodyvengeance
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/bloodyvengeance
+    custom_model_data: 10009
+bludgeon:
+  itemname: bludgeon
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/bludgeon
+    custom_model_data: 10010
+calamityblade:
+  itemname: calamityblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/calamityblade
+    custom_model_data: 10011
+claymore:
+  itemname: claymore
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/claymore
+    custom_model_data: 10012
+cleaver:
+  itemname: cleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cleaver
+    custom_model_data: 10013
+crimson_lance:
+  itemname: crimson_lance
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/crimson_lance
+    custom_model_data: 10014
+crimsoncleaver:
+  itemname: crimsoncleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/crimsoncleaver
+    custom_model_data: 10015
+crystal_frostblade:
+  itemname: crystal_frostblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/crystal_frostblade
+    custom_model_data: 10016
+demonic:
+  itemname: demonic
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demonic
+    custom_model_data: 10017
+demons_blood:
+  itemname: demons_blood
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demons_blood
+    custom_model_data: 10018
+demonslayers_greatsword:
+  itemname: demonslayers_greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demonslayers_greatsword
+    custom_model_data: 10019
+dragon:
+  itemname: dragon
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/dragon
+    custom_model_data: 10020
+emerald_greatcleaver:
+  itemname: emerald_greatcleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/emerald_greatcleaver
+    custom_model_data: 10021
+emerald_sacrificial_cleaver:
+  itemname: emerald_sacrificial_cleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/emerald_sacrificial_cleaver
+    custom_model_data: 10022
+flamberge:
+  itemname: flamberge
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/flamberge
+    custom_model_data: 10023
+gloomsteel_greataxe:
+  itemname: gloomsteel_greataxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/gloomsteel_greataxe
+    custom_model_data: 10024
+gloomsteel_katana:
+  itemname: gloomsteel_katana
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/gloomsteel_katana
+    custom_model_data: 10025
+gloomsteel_knife:
+  itemname: gloomsteel_knife
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/gloomsteel_knife
+    custom_model_data: 10026
+grand_claymore:
+  itemname: grand_claymore
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/grand_claymore
+    custom_model_data: 10027
+iron_battleaxe:
+  itemname: iron_battleaxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/iron_battleaxe
+    custom_model_data: 10028
+iron_broadsword:
+  itemname: iron_broadsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/iron_broadsword
+    custom_model_data: 10029
+iron_dagger:
+  itemname: iron_dagger
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/iron_dagger
+    custom_model_data: 10030
+iron_sai:
+  itemname: iron_sai
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/iron_sai
+    custom_model_data: 10031
+lycanbane:
+  itemname: lycanbane
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/lycanbane
+    custom_model_data: 10032
+mace:
+  itemname: mace
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/mace
+    custom_model_data: 10033
+moonlight:
+  itemname: moonlight
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/moonlight
+    custom_model_data: 10034
+nature:
+  itemname: nature
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/nature
+    custom_model_data: 10035
+oculus:
+  itemname: oculus
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/oculus
+    custom_model_data: 10036
+opaline_lance:
+  itemname: opaline_lance
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/opaline_lance
+    custom_model_data: 10037
+piercer:
+  itemname: piercer
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/piercer
+    custom_model_data: 10038
+polearm:
+  itemname: polearm
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/polearm
+    custom_model_data: 10039
+revenants_gravecleaver:
+  itemname: revenants_gravecleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/revenants_gravecleaver
+    custom_model_data: 10040
+runic:
+  itemname: runic
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/runic
+    custom_model_data: 10041
+skeletonaxe:
+  itemname: skeletonaxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/skeletonaxe
+    custom_model_data: 10042
+solstice:
+  itemname: solstice
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/solstice
+    custom_model_data: 10043
+spider:
+  itemname: spider
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/spider
+    custom_model_data: 10044
+vesper:
+  itemname: vesper
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/vesper
+    custom_model_data: 10045
+vindicator:
+  itemname: vindicator
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/vindicator
+    custom_model_data: 10046
+waraxe:
+  itemname: waraxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/waraxe
+    custom_model_data: 10047
+woodbludgeon:
+  itemname: woodbludgeon
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/woodbludgeon
+    custom_model_data: 10048
+zenith:
+  itemname: zenith
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/zenith
+    custom_model_data: 10049
+toukabou_shigure:
+  itemname: toukabou_shigure
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/toukabou_shigure
+    custom_model_data: 10050
+mistsplitter_reforged:
+  itemname: mistsplitter_reforged
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/mistsplitter_reforged
+    custom_model_data: 10051
+primordial_jade_cutter:
+  itemname: primordial_jade_cutter
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/primordial_jade_cutter
+    custom_model_data: 10052
+key_of_khaj_nisut:
+  itemname: key_of_khaj_nisut
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/key_of_khaj_nisut
+    custom_model_data: 10053
+the_catch:
+  itemname: the_catch
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/the_catch
+    custom_model_data: 10054
+staff_of_the_scarlet_sands:
+  itemname: staff_of_the_scarlet_sands
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff_of_the_scarlet_sands
+    custom_model_data: 10055
+skyward_spine:
+  itemname: skyward_spine
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/skyward_spine
+    custom_model_data: 10056
+staff_of_homa:
+  itemname: staff_of_homa
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff_of_homa
+    custom_model_data: 10057
+lithic_spear:
+  itemname: lithic_spear
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/lithic_spear
+    custom_model_data: 10058
+primordial_jade_winged_spear:
+  itemname: primordial_jade_winged_spear
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/primordial_jade_winged_spear
+    custom_model_data: 10059
+dragons_bane:
+  itemname: dragons_bane
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/dragons_bane
+    custom_model_data: 10060
+engulfing_lightning:
+  itemname: engulfing_lightning
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/engulfing_lightning
+    custom_model_data: 10061
+wolfs_gravestone:
+  itemname: wolfs_gravestone
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/wolfs_gravestone
+    custom_model_data: 10062
+favonius_greatsword:
+  itemname: favonius_greatsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/favonius_greatsword
+    custom_model_data: 10063
+redhorn_stonethresher:
+  itemname: redhorn_stonethresher
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/redhorn_stonethresher
+    custom_model_data: 10064
+beacon_of_the_reed_sea:
+  itemname: beacon_of_the_reed_sea
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/beacon_of_the_reed_sea
+    custom_model_data: 10065
+skyward_atlas:
+  itemname: skyward_atlas
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/skyward_atlas
+    custom_model_data: 10066
+memory_of_dust:
+  itemname: memory_of_dust
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/memory_of_dust
+    custom_model_data: 10067
+kaguras_verity:
+  itemname: kaguras_verity
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/kaguras_verity
+    custom_model_data: 10068
+jadefalls_splendor:
+  itemname: jadefalls_splendor
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/jadefalls_splendor
+    custom_model_data: 10069
+thundering_pulse_standby:
+  itemname: thundering_pulse_standby
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/thundering_pulse_standby
+    custom_model_data: 10070
+skyward_harp_standby:
+  itemname: skyward_harp_standby
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/skyward_harp_standby
+    custom_model_data: 10071
+hamayumi_standby:
+  itemname: hamayumi_standby
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/hamayumi_standby
+    custom_model_data: 10072
+end_of_the_line_standby:
+  itemname: end_of_the_line_standby
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/end_of_the_line_standby
+    custom_model_data: 10073
+amos_bow_standby:
+  itemname: amos_bow_standby
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/amos_bow_standby
+    custom_model_data: 10074
+abominableblade:
+  itemname: abominableblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/abominableblade
+    custom_model_data: 10075
+abominablegreatsaber:
+  itemname: abominablegreatsaber
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/abominablegreatsaber
+    custom_model_data: 10076
+abominablescythe:
+  itemname: abominablescythe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/abominablescythe
+    custom_model_data: 10077
+aciddemon:
+  itemname: aciddemon
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/aciddemon
+    custom_model_data: 10078
+amethyst_shuriken:
+  itemname: amethyst_shuriken
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/amethyst_shuriken
+    custom_model_data: 10079
+ancient_royal_great_sword:
+  itemname: ancient_royal_great_sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/ancient_royal_great_sword
+    custom_model_data: 10080
+aquantic_sacred_blade:
+  itemname: aquantic_sacred_blade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/aquantic_sacred_blade
+    custom_model_data: 10081
+aquantictrident:
+  itemname: aquantictrident
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/aquantictrident
+    custom_model_data: 10082
+ashura_blade:
+  itemname: ashura_blade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/ashura_blade
+    custom_model_data: 10083
+bloodydeath:
+  itemname: bloodydeath
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/bloodydeath
+    custom_model_data: 10084
+cariansword:
+  itemname: cariansword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cariansword
+    custom_model_data: 10085
+chrono_blade:
+  itemname: chrono_blade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/chrono_blade
+    custom_model_data: 10086
+corruptedmythicblade:
+  itemname: corruptedmythicblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/corruptedmythicblade
+    custom_model_data: 10087
+creationsplitter:
+  itemname: creationsplitter
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/creationsplitter
+    custom_model_data: 10088
+crescentrose:
+  itemname: crescentrose
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/crescentrose
+    custom_model_data: 10089
+cyberkatana:
+  itemname: cyberkatana
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cyberkatana
+    custom_model_data: 10090
+cybermantisblade:
+  itemname: cybermantisblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cybermantisblade
+    custom_model_data: 10091
+cybernetickatana:
+  itemname: cybernetickatana
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cybernetickatana
+    custom_model_data: 10092
+cyberneticknife:
+  itemname: cyberneticknife
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cyberneticknife
+    custom_model_data: 10093
+cyberneticsawblade:
+  itemname: cyberneticsawblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cyberneticsawblade
+    custom_model_data: 10094
+cybersword:
+  itemname: cybersword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/cybersword
+    custom_model_data: 10095
+dainsleif:
+  itemname: dainsleif
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/dainsleif
+    custom_model_data: 10096
+dark_blade:
+  itemname: dark_blade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/dark_blade
+    custom_model_data: 10097
+dark_cleaver:
+  itemname: dark_cleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/dark_cleaver
+    custom_model_data: 10098
+death_knight_dagger:
+  itemname: death_knight_dagger
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/death_knight_dagger
+    custom_model_data: 10099
+death_knight_sword:
+  itemname: death_knight_sword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/death_knight_sword
+    custom_model_data: 10100
+demigodsunholyblade:
+  itemname: demigodsunholyblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demigodsunholyblade
+    custom_model_data: 10101
+demigodsunholyhalberd:
+  itemname: demigodsunholyhalberd
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demigodsunholyhalberd
+    custom_model_data: 10102
+demonicblade:
+  itemname: demonicblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demonicblade
+    custom_model_data: 10103
+demoniccleaver:
+  itemname: demoniccleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demoniccleaver
+    custom_model_data: 10104
+demonlordsgreataxe:
+  itemname: demonlordsgreataxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demonlordsgreataxe
+    custom_model_data: 10105
+demonlordsword:
+  itemname: demonlordsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/demonlordsword
+    custom_model_data: 10106
+divine_justice:
+  itemname: divine_justice
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/divine_justice
+    custom_model_data: 10107
+divine_reaper:
+  itemname: divine_reaper
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/divine_reaper
+    custom_model_data: 10108
+divineaxerhitta:
+  itemname: divineaxerhitta
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/divineaxerhitta
+    custom_model_data: 10109
+divinepunisher:
+  itemname: divinepunisher
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/divinepunisher
+    custom_model_data: 10110
+dragonslayingblade:
+  itemname: dragonslayingblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/dragonslayingblade
+    custom_model_data: 10111
+edgeoftheastralplane:
+  itemname: edgeoftheastralplane
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/edgeoftheastralplane
+    custom_model_data: 10112
+epicsword:
+  itemname: epicsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/epicsword
+    custom_model_data: 10113
+estoc:
+  itemname: estoc
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/estoc
+    custom_model_data: 10114
+fallengodspear:
+  itemname: fallengodspear
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/fallengodspear
+    custom_model_data: 10115
+fallengodsword:
+  itemname: fallengodsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/fallengodsword
+    custom_model_data: 10116
+floral_longsword:
+  itemname: floral_longsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/floral_longsword
+    custom_model_data: 10117
+floral_sabre:
+  itemname: floral_sabre
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/floral_sabre
+    custom_model_data: 10118
+forest_guardian_glaive:
+  itemname: forest_guardian_glaive
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/forest_guardian_glaive
+    custom_model_data: 10119
+frostaxe:
+  itemname: frostaxe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/frostaxe
+    custom_model_data: 10120
+frostblade:
+  itemname: frostblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/frostblade
+    custom_model_data: 10121
+frostscythe:
+  itemname: frostscythe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/frostscythe
+    custom_model_data: 10122
+greenscythe:
+  itemname: greenscythe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/greenscythe
+    custom_model_data: 10123
+hornetsneedle:
+  itemname: hornetsneedle
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/hornetsneedle
+    custom_model_data: 10124
+jadehalberd:
+  itemname: jadehalberd
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/jadehalberd
+    custom_model_data: 10125
+katana:
+  itemname: katana
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/katana
+    custom_model_data: 10126
+legendarysword:
+  itemname: legendarysword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/legendarysword
+    custom_model_data: 10127
+longsword:
+  itemname: longsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/longsword
+    custom_model_data: 10128
+masamune:
+  itemname: masamune
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/masamune
+    custom_model_data: 10129
+mjolnir:
+  itemname: mjolnir
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/mjolnir
+    custom_model_data: 10130
+moltenblade:
+  itemname: moltenblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/moltenblade
+    custom_model_data: 10131
+moltensword:
+  itemname: moltensword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/moltensword
+    custom_model_data: 10132
+moonlight2:
+  itemname: moonlight2
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/moonlight2
+    custom_model_data: 10133
+muramasa:
+  itemname: muramasa
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/muramasa
+    custom_model_data: 10134
+mysticalspellblade:
+  itemname: mysticalspellblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/mysticalspellblade
+    custom_model_data: 10135
+mythicblade:
+  itemname: mythicblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/mythicblade
+    custom_model_data: 10136
+partisan:
+  itemname: partisan
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/partisan
+    custom_model_data: 10137
+pharaohs_treasure:
+  itemname: pharaohs_treasure
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/pharaohs_treasure
+    custom_model_data: 10138
+pheonixgrace:
+  itemname: pheonixgrace
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/pheonixgrace
+    custom_model_data: 10139
+powerfusehammer:
+  itemname: powerfusehammer
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/powerfusehammer
+    custom_model_data: 10140
+powerfusesword:
+  itemname: powerfusesword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/powerfusesword
+    custom_model_data: 10141
+riversofblood:
+  itemname: riversofblood
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/riversofblood
+    custom_model_data: 10142
+royalchakram:
+  itemname: royalchakram
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/royalchakram
+    custom_model_data: 10143
+royalrapier:
+  itemname: royalrapier
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/royalrapier
+    custom_model_data: 10144
+sabre:
+  itemname: sabre
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sabre
+    custom_model_data: 10145
+sacred_tree_blade:
+  itemname: sacred_tree_blade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sacred_tree_blade
+    custom_model_data: 10146
+scissorblade:
+  itemname: scissorblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/scissorblade
+    custom_model_data: 10147
+sculkcleaver:
+  itemname: sculkcleaver
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sculkcleaver
+    custom_model_data: 10148
+sculkscythe:
+  itemname: sculkscythe
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sculkscythe
+    custom_model_data: 10149
+sculksword:
+  itemname: sculksword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sculksword
+    custom_model_data: 10150
+sentinels_will:
+  itemname: sentinels_will
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sentinels_will
+    custom_model_data: 10151
+silverine_blade:
+  itemname: silverine_blade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/silverine_blade
+    custom_model_data: 10152
+soul_collector:
+  itemname: soul_collector
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/soul_collector
+    custom_model_data: 10153
+soul_devourer:
+  itemname: soul_devourer
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/soul_devourer
+    custom_model_data: 10154
+soulclaws:
+  itemname: soulclaws
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/soulclaws
+    custom_model_data: 10155
+souledge:
+  itemname: souledge
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/souledge
+    custom_model_data: 10156
+soulharvester:
+  itemname: soulharvester
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/soulharvester
+    custom_model_data: 10157
+steelsword:
+  itemname: steelsword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/steelsword
+    custom_model_data: 10158
+stop_sign:
+  itemname: stop_sign
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/stop_sign
+    custom_model_data: 10159
+sunbreak:
+  itemname: sunbreak
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/sunbreak
+    custom_model_data: 10160
+tengensblade:
+  itemname: tengensblade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/tengensblade
+    custom_model_data: 10161
+terrablade:
+  itemname: terrablade
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/terrablade
+    custom_model_data: 10162
+thousanddemondaggers:
+  itemname: thousanddemondaggers
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/thousanddemondaggers
+    custom_model_data: 10163
+thunderbringer:
+  itemname: thunderbringer
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/thunderbringer
+    custom_model_data: 10164
+vampiricneedle:
+  itemname: vampiricneedle
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/vampiricneedle
+    custom_model_data: 10165
+wakizashi:
+  itemname: wakizashi
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/wakizashi
+    custom_model_data: 10166
+yoru:
+  itemname: yoru
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/yoru
+    custom_model_data: 10167
+herosword:
+  itemname: herosword
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/herosword
+    custom_model_data: 10168
+staff_bermundes_hermit_staff:
+  itemname: staff_bermundes_hermit_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_bermundes_hermit_staff
+    custom_model_data: 10169
+staff_black_snake_staff:
+  itemname: staff_black_snake_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_black_snake_staff
+    custom_model_data: 10170
+staff_divine_staff:
+  itemname: staff_divine_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_divine_staff
+    custom_model_data: 10171
+staff_goblin_witch_staff:
+  itemname: staff_goblin_witch_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_goblin_witch_staff
+    custom_model_data: 10172
+staff_golden_crook:
+  itemname: staff_golden_crook
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_golden_crook
+    custom_model_data: 10173
+staff_holy_celtic_staff:
+  itemname: staff_holy_celtic_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_holy_celtic_staff
+    custom_model_data: 10174
+staff_lich_staff:
+  itemname: staff_lich_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_lich_staff
+    custom_model_data: 10175
+staff_night:
+  itemname: staff_night
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_night
+    custom_model_data: 10176
+staff_northgate_guardian_staff:
+  itemname: staff_northgate_guardian_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_northgate_guardian_staff
+    custom_model_data: 10177
+staff_olwen_staff:
+  itemname: staff_olwen_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_olwen_staff
+    custom_model_data: 10178
+staff_sagrada_winged_staff:
+  itemname: staff_sagrada_winged_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_sagrada_winged_staff
+    custom_model_data: 10179
+staff_unholy_wisdom:
+  itemname: staff_unholy_wisdom
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_unholy_wisdom
+    custom_model_data: 10180
+staff_basic_wood:
+  itemname: staff_basic_wood
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_basic_wood
+    custom_model_data: 10181
+magicstaff:
+  itemname: magicstaff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/magicstaff
+    custom_model_data: 10182
+amethyst_stave:
+  itemname: amethyst_stave
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/amethyst_stave
+    custom_model_data: 10183
+electric_stave:
+  itemname: electric_stave
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/electric_stave
+    custom_model_data: 10184
+fire_stave:
+  itemname: fire_stave
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/fire_stave
+    custom_model_data: 10185
+wand_blood:
+  itemname: wand_blood
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/wand_blood
+    custom_model_data: 10186
+wand_aqua:
+  itemname: wand_aqua
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/wand_aqua
+    custom_model_data: 10187
+wand_air:
+  itemname: wand_air
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/wand_air
+    custom_model_data: 10188
+wand_terra:
+  itemname: wand_terra
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/wand_terra
+    custom_model_data: 10189
+wand_flame:
+  itemname: wand_flame
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/wand_flame
+    custom_model_data: 10190
+wand_electric:
+  itemname: wand_electric
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/wand_electric
+    custom_model_data: 10191
+azuls_staff:
+  itemname: azuls_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/azuls_staff
+    custom_model_data: 10192
+ballad_of_the_fjords:
+  itemname: ballad_of_the_fjords
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/ballad_of_the_fjords
+    custom_model_data: 10193
+cranes_echoing_call:
+  itemname: cranes_echoing_call
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/cranes_echoing_call
+    custom_model_data: 10194
+crimson_moons_semblance:
+  itemname: crimson_moons_semblance
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/crimson_moons_semblance
+    custom_model_data: 10195
+fleuve_cendre_ferryman:
+  itemname: fleuve_cendre_ferryman
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/fleuve_cendre_ferryman
+    custom_model_data: 10196
+jaina_staff:
+  itemname: jaina_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/jaina_staff
+    custom_model_data: 10197
+leonas_staff:
+  itemname: leonas_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/leonas_staff
+    custom_model_data: 10198
+lumidouce_elegy:
+  itemname: lumidouce_elegy
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/lumidouce_elegy
+    custom_model_data: 10199
+riddles_staff:
+  itemname: riddles_staff
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/riddles_staff
+    custom_model_data: 10200
+staff_1:
+  itemname: staff_1
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_1
+    custom_model_data: 10201
+staff_2:
+  itemname: staff_2
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_2
+    custom_model_data: 10202
+staff_3:
+  itemname: staff_3
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/staff_3
+    custom_model_data: 10203
+tulaytullahs_remembrance:
+  itemname: tulaytullahs_remembrance
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/tulaytullahs_remembrance
+    custom_model_data: 10204
+verdict:
+  itemname: verdict
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/verdict
+    custom_model_data: 10205
+vortex_vanquisher:
+  itemname: vortex_vanquisher
+  material: DIAMOND_SWORD
+  Pack:
+    model: xindellar:weapon/staff/vortex_vanquisher
+    custom_model_data: 10206

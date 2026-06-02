@@ -7,13 +7,13 @@ default-menu: defaultmenu_hats
 debug-mode: false
 database-settings:
   # SQLite (Default), MYSQL, NONE
-  type: sqlite
+  type: MYSQL
   mysql:
-    database: "database"
-    password: "cherryBomb"
+    database: "xin_cosmetics"
+    password: "3jPkSm57VYs83XEdmYxR9HITkD4mnaoJ_"
     port: 3306
-    host: "localhost"
-    user: "username"
+    host: "119.59.103.79"
+    user: "cinderella"
   delay:
     # This is for if other plugins need to handle certain aspects of a player first.
     enabled: false

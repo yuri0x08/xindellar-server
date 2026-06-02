@@ -28,11 +28,11 @@ database:
   type: MYSQL
   # Specify credentials here for your MYSQL, MARIADB, POSTGRES OR MONGO database
   credentials:
-    host: localhost
+    host: 119.59.103.79
     port: 3306
-    database: HuskSync
-    username: root
-    password: pa55w0rd
+    database: xin_husk_sync
+    username: cinderella
+    password: 3jPkSm57VYs83XEdmYxR9HITkD4mnaoJ_
     # Only change this if you're using MARIADB or POSTGRES
     parameters: ?autoReconnect=true&useSSL=false&useUnicode=true&characterEncoding=UTF-8
   # MYSQL, MARIADB, POSTGRES database Hikari connection pool properties. Don't modify this unless you know what you're doing!
@@ -48,10 +48,10 @@ database:
     parameters: ?retryWrites=true&w=majority&authSource=HuskSync
   # Names of tables to use on your database. Don't modify this unless you know what you're doing!
   table_names:
-    map_data: husksync_map_data
-    user_data: husksync_user_data
-    map_ids: husksync_map_ids
     users: husksync_users
+    map_ids: husksync_map_ids
+    user_data: husksync_user_data
+    map_data: husksync_map_data
   # Whether to run the creation SQL on the database when the server starts. Don't modify this unless you know what you're doing!
   create_tables: true
 # Redis settings
@@ -60,12 +60,12 @@ redis:
   # Set "user" to '' if you don't have one or would like to use the default user.
   # Set "password" to '' if you don't have one.
   credentials:
-    host: localhost
+    host: 127.0.0.1
     port: 6379
     # Only change the database if you know what you are doing. The default is 0.
     database: 0
     user: ''
-    password: ''
+    password: TrtnCEGjBz9JwGmMVBRa2jqafBbRCbdQ
     # Use SSL/TLS for encrypted connections.
     use_ssl: false
     # Connection timeout in milliseconds.
@@ -139,19 +139,19 @@ synchronization:
   # Which data types to synchronize.
   # Docs: https://william278.net/docs/husksync/sync-features
   features:
-    hunger: true
-    statistics: true
-    health: true
-    experience: true
-    potion_effects: true
-    flight_status: true
-    ender_chest: true
-    location: false
-    attributes: true
-    advancements: true
-    game_mode: true
-    persistent_data: true
     inventory: true
+    persistent_data: true
+    game_mode: true
+    advancements: true
+    attributes: true
+    location: false
+    ender_chest: true
+    flight_status: true
+    potion_effects: true
+    experience: true
+    health: true
+    statistics: true
+    hunger: true
   # Commands which should be blocked before a player has finished syncing (Use * to block all commands)
   blacklisted_commands_while_locked:
   - '*'
@@ -179,8 +179,8 @@ synchronization:
     - minecraft:creative_mode_*
   # Event priorities for listeners (HIGHEST, NORMAL, LOWEST). Change if you encounter plugin conflicts
   event_priorities:
-    death_listener: NORMAL
     quit_listener: LOWEST
+    death_listener: NORMAL
     join_listener: LOWEST
   # Enable check-in petitions for data syncing (don't change this unless you know what you're doing)
   checkin_petitions: false

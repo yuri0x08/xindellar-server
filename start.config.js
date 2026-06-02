@@ -3,10 +3,10 @@ module.exports = {
       {
         name: "xindellar",
       
-        script: "/home/xin/modules/adjdk21/bin/java",
+        script: "/root/modules/adjdk21/bin/java",
        
         args: [
-          "-Xms3072M", "-Xmx3072M",
+          "-Xms1536M", "-Xmx1536M",
           "--add-modules=jdk.incubator.vector",
           "-XX:+UseG1GC",
           "-XX:+ParallelRefProcEnabled",
@@ -31,11 +31,11 @@ module.exports = {
           "-jar",
           "server.jar",
         ],
-        cwd: "/home/xin/xindellar/",
+        cwd: "/root/xindellar/",
         interpreter: "none",
         autorestart: true,
-        max_memory_restart: "5G",
-        restart_delay: 5000 
+        //max_memory_restart: "5G",
+       // restart_delay: 5000 
       }
     ]
   };

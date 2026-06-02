@@ -143,3 +143,211 @@ RandomTeleportation:
         Materials: []
         Biomes: []
       PreferredBiomes: []
+    tree:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    tree2:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    tree3:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    rock1:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    rock2:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    rock3:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    detailpack:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []
+    tree4:
+      Enabled: true
+      MaxTries: 0
+      Cooldown: 0
+      Range:
+        Max: 1000
+        Min: 500
+      Center:
+        X: 0
+        Z: 0
+      Circle: false
+      SurfaceOnly: false
+      FromAnotherWorld: true
+      RequireWorldPermission: false
+      YLimits:
+        Min: -64
+        Max: 320
+      Ignore:
+        Water: true
+        Lava: true
+        Leaves: true
+        PowderSnow: false
+        CrawlSpaces: false
+        Materials: []
+        Biomes: []
+      PreferredBiomes: []

@@ -1,41 +1,42 @@
 {
   "stats": {
-    "minecraft:dropped": {
-      "minecraft:stone": 1
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2988,
+      "minecraft:walk_one_cm": 65640,
+      "minecraft:leave_game": 8,
+      "minecraft:mob_kills": 11,
+      "minecraft:walk_under_water_one_cm": 1761,
+      "minecraft:damage_taken": 1550,
+      "minecraft:damage_dealt": 1689,
+      "minecraft:play_time": 112278,
+      "minecraft:jump": 1421,
+      "minecraft:time_since_death": 2958,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 151102,
+      "minecraft:fall_one_cm": 23370,
+      "minecraft:swim_one_cm": 12540,
+      "minecraft:total_world_time": 112278,
+      "minecraft:fly_one_cm": 1316760,
+      "minecraft:walk_on_water_one_cm": 5321,
+      "minecraft:crouch_one_cm": 265,
+      "minecraft:sneak_time": 2893,
+      "minecraft:deaths": 1
     },
     "minecraft:killed": {
       "minecraft:pillager": 2,
       "minecraft:vex": 9
     },
-    "minecraft:picked_up": {
-      "minecraft:ominous_bottle": 1,
-      "minecraft:white_banner": 1,
-      "minecraft:netherite_sword": 1
-    },
     "minecraft:used": {
       "minecraft:cooked_beef": 8,
       "minecraft:netherite_sword": 30
     },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 56466,
-      "minecraft:walk_one_cm": 63147,
-      "minecraft:leave_game": 5,
-      "minecraft:mob_kills": 11,
-      "minecraft:walk_under_water_one_cm": 1761,
-      "minecraft:damage_taken": 1190,
-      "minecraft:damage_dealt": 1689,
-      "minecraft:play_time": 56466,
-      "minecraft:jump": 1330,
-      "minecraft:time_since_death": 56466,
-      "minecraft:drop": 1,
-      "minecraft:sprint_one_cm": 119202,
-      "minecraft:fall_one_cm": 17200,
-      "minecraft:swim_one_cm": 12540,
-      "minecraft:total_world_time": 56466,
-      "minecraft:fly_one_cm": 949227,
-      "minecraft:walk_on_water_one_cm": 5321,
-      "minecraft:crouch_one_cm": 265,
-      "minecraft:sneak_time": 2408
+    "minecraft:dropped": {
+      "minecraft:stone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:ominous_bottle": 1,
+      "minecraft:white_banner": 1,
+      "minecraft:netherite_sword": 1
     }
   },
   "DataVersion": 4671

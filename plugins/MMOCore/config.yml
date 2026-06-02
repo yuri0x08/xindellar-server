@@ -11,12 +11,12 @@ auto-save:
 
 # MySQL Support
 mysql:
-  enabled: false
-  host: localhost
+  enabled: true
+  host: 119.59.103.79
   port: 3306
-  database: minecraft
-  user: mmolover
-  pass: ILovePhoenixDev
+  database: xin_mmocore
+  user: cinderella
+  pass: "3jPkSm57VYs83XEdmYxR9HITkD4mnaoJ_"
   maxPoolSize: 10
   maxLifeTime: 300000
   connectionTimeOut: 10000

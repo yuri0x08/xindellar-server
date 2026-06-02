@@ -85,24 +85,24 @@ physics:
     disable-water-damage-blocks: []
 ignition:
     block-tnt: false
-    block-tnt-block-damage: false
+    block-tnt-block-damage: true
     block-lighter: false
 fire:
     disable-lava-fire-spread: false
-    disable-all-fire-spread: false
+    disable-all-fire-spread: true
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:
     block-creeper-explosions: false
-    block-creeper-block-damage: false
+    block-creeper-block-damage: true
     block-wither-explosions: false
-    block-wither-block-damage: false
+    block-wither-block-damage: true
     block-wither-skull-explosions: false
-    block-wither-skull-block-damage: false
-    block-enderdragon-block-damage: false
+    block-wither-skull-block-damage: true
+    block-enderdragon-block-damage: true
     block-enderdragon-portal-creation: false
     block-fireball-explosions: false
-    block-fireball-block-damage: false
+    block-fireball-block-damage: true
     block-windcharge-explosions: false
     anti-wolf-dumbness: false
     allow-tamed-spawns: true
@@ -131,13 +131,13 @@ player-damage:
     reset-fall-on-void-teleport: false
     disable-explosion-damage: false
     disable-mob-damage: false
-    disable-death-messages: false
+    disable-death-messages: true
 crops:
-    disable-creature-trampling: false
-    disable-player-trampling: false
+    disable-creature-trampling: true
+    disable-player-trampling: true
 turtle-egg:
-    disable-creature-trampling: false
-    disable-player-trampling: false
+    disable-creature-trampling: true
+    disable-player-trampling: true
 sniffer-egg:
     disable-creature-trampling: false
     disable-player-trampling: false
@@ -157,8 +157,8 @@ dynamics:
     disable-snow-melting: false
     disable-snow-formation: false
     disable-ice-formation: false
-    disable-leaf-decay: false
-    disable-grass-growth: false
+    disable-leaf-decay: true
+    disable-grass-growth: true
     disable-mycelium-spread: false
     disable-vine-growth: false
     disable-rock-growth: false

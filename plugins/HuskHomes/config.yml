@@ -13,14 +13,14 @@ check_for_updates: true
 # Database settings
 database:
   # Type of database to use (SQLITE, H2, MYSQL, MARIADB, or POSTGRESQL)
-  type: SQLITE
+  type: MYSQL
   # Specify credentials here if you are using MYSQL, MARIADB, or POSTGRESQL
   credentials:
-    host: localhost
+    host: 119.59.103.79
     port: 3306
-    database: huskhomes
-    username: root
-    password: pa55w0rd
+    database: xin_huskhomes
+    username: cinderella
+    password: 3jPkSm57VYs83XEdmYxR9HITkD4mnaoJ_
     parameters: ?autoReconnect=true&useSSL=false&useUnicode=true&characterEncoding=UTF-8
   # MYSQL / MARIADB / POSTGRESQL database Hikari connection pool properties
   # Don't modify this unless you know what you're doing!
@@ -113,20 +113,20 @@ general:
 # Cross-server settings
 cross_server:
   # Whether to enable cross-server mode for teleporting across your proxy network.
-  enabled: false
+  enabled: true
   # The cluster ID, for if you're networking multiple separate groups of HuskHomes-enabled servers.
   # Do not change unless you know what you're doing
   cluster_id: main
   # Type of network message broker to ues for cross-server networking (PLUGIN_MESSAGE or REDIS)
-  broker_type: PLUGIN_MESSAGE
+  broker_type: REDIS
   # Settings for if you're using REDIS as your message broker
   redis:
-    host: localhost
+    host: 127.0.0.1
     port: 6379
     # Only change this if you know what you are doing. The default value is 0.
     database: 0
     # Password for your Redis server. Leave blank if you're not using a password.
-    password: ''
+    password: TrtnCEGjBz9JwGmMVBRa2jqafBbRCbdQ
     # Timeout for connecting to the Redis server (in milliseconds)
     timeout: 2000
     use_ssl: false
@@ -140,11 +140,11 @@ cross_server:
   # Define a single global /spawn for your network via a warp. Docs: https://william278.net/docs/huskhomes/global-spawn/
   global_spawn:
     # Whether to define a single global /spawn for your network via a warp.
-    enabled: false
+    enabled: true
     # The name of the warp to use as the global spawn.
     warp_name: Spawn
   # Whether player respawn positions should work cross-server. Docs: https://william278.net/docs/huskhomes/global-respawning/
-  global_respawning: false
+  global_respawning: true
 # Random teleport (/rtp) settings.
 rtp:
   # Radial region around the /spawn position where players CAN be randomly teleported.
@@ -166,15 +166,13 @@ rtp:
   restricted_worlds:
   - world_the_end
   # Whether or not RTP should perform cross-server.
-  cross_server: false
+  cross_server: true
   # List of server in which /rtp is allowed. (Only relevant when using cross server mode WITH REDIS)
   # If a server is not defined here the RTP logic has no way of knowing its existence.
   # Unless specified, the default world name used as targeted world is the name of the world the player currently standing in.
   random_target_servers:
     server:
     - world
-    - world_nether
-    - world_the_end
 # Action cooldown settings. Docs: https://william278.net/docs/huskhomes/cooldowns
 cooldowns:
   # Whether to apply a cooldown between performing certain actions

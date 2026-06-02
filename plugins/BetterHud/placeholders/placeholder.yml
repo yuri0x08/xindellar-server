@@ -1,0 +1,15 @@
+
+xinenergy:
+  variable: xinenergy
+  placeholder: "%coinsengine_balance_short_energy%"
+  update: 10
+
+xinmoney:
+  variable: xinmoney
+  placeholder: "%coinsengine_balance_short_money%"
+  update: 10
+
+player_location:
+  variable: player_location
+  placeholder: "%player_x%,%player_y%,%player_z%"
+  update: 10

@@ -132,7 +132,7 @@ Chat:
     '4': '&fꐥ #848CF8{displayName}: #C4B5FD{message}'
     '5': '&fꐦ #C084FC{displayName}: #E9D5FF{message}'
     '6': '&fꐧ #f59e0b{displayName}: #ffcc00{message}'
-    '7': '&fꐨ #FB7185 {displayName}: #F9A8D4{message}'
+    '7': '&fꐨ #FB7185{displayName}: #F9A8D4{message}'
   # Use numeric increments to separate groups from each other. If player has more than one, then line with higher number will be used
   # Add as many lines as you need too
   # cmi.chatmessagegroup.[id] permnission node to use

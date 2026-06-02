@@ -7,7 +7,7 @@ pmenu:
     offhand:
       name: offhand
       x: -104
-      y: -22
+      y: -20
       conditions:
         1:
           first: "papi:checkitem_inhand:off"
@@ -109,7 +109,8 @@ bottom_hud:
   texts:
     p_location:
       name: font
-      pattern: <#ffffff>[papi:player_x],[papi:player_y],[papi:player_z]
+      pattern: <#ffffff>[string:player_location]
+     # pattern: <#ffffff>[papi:player_x],[papi:player_y],[papi:player_z]
       align: center
       layer: 2
       x: 92
@@ -118,7 +119,7 @@ bottom_hud:
       outline: true
     p_money:
       name: font
-      pattern: <#ffffff>[papi:coinsengine_balance_short_money]
+      pattern: <#ffffff>[string:xinmoney]
       align: left
       layer: 2
       x: 16
@@ -127,7 +128,7 @@ bottom_hud:
       outline: true
     p_energy:
       name: font
-      pattern: <#ffffff>[papi:coinsengine_balance_short_energy]
+      pattern: <#ffffff>[string:xinenergy]
       align: right
       layer: 2
       x: 173

@@ -38,8 +38,8 @@ Number:
   # Allowed modes: UP, DOWN, CEILING, FLOOR, HALF_UP, HALF_DOWN, HALF_EVEN, UNNECESSARY
   # A tutorial can be found here: https://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html
   Format:
-    Format: '#,###.###'
-    Rounding: HALF_EVEN
+    Format: '#,###.##'
+    Rounding: DOWN
     Locale: en-US
   # Sets step for the Number Shortcut's magnitude.
   # When a number is about to be compacted, it will be divided by this value to determine if it falls under specific Number Shortcut.
